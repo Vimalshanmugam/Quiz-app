@@ -16,12 +16,12 @@ const quizQuestions=[
     },
     {
         question: "what is national tree of india?",
-        options: ["Banyan Tree", "Coconut Tree","Banyan tree","Peepal Tree"],
-        correctAnswer : "Banyan tree"
+        options: ["Banyan Tree", "Coconut Tree","Banyans tree","Peepal Tree"],
+        correctAnswer : "Banyan Tree"
     },
     {
         question: "what is national game in india?",
-        options: ["Football", "Basketball","Tennis","hockey "],
+        options: ["Football", "Basketball","Tennis","hockey"],
         correctAnswer : "hockey"
     },
     {
@@ -31,17 +31,17 @@ const quizQuestions=[
     },
     {
         question: "what is national fruit of india?",
-        options: ["Apple", "Mango","Banana","Orange "],
+        options: ["Apple", "Mango","Banana","Orange"],
         correctAnswer : "Mango"
     },
     {
         question: "Currently india population?",
-        options: ["144 crores ", "145 crores ","140 crores ","134 crores  "],
+        options: ["144 crores ", "145 crores ","140 crores ","134 crores"],
         correctAnswer : "144 crores"
     },
     {
         question: "What are the total state of india?",
-        options: ["29 states", "27 states","25 states","28 states "],
+        options: ["29 states", "27 states","25 states","28 states"],
         correctAnswer : "28 states"
     },
     {
